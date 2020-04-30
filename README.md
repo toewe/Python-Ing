@@ -1,4 +1,4 @@
 # Python für Ingenieure SS20
 
-#### Aktuelle Hausaufgabe HA0
-##### Abgabe: 30.4.2020
+#### Aktuelle Hausaufgabe HA1
+##### Abgabe: 14.5.2020
